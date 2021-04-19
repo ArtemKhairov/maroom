@@ -29,6 +29,10 @@
 - Шаг 3 : ввод пароля и повторный ввод пароля
 - Шаг 4 : вывод финального результата и поздравления
 
+## CodeSandbox
+
+- Ссылка на [codesandbox](https://codesandbox.io/s/sparkling-dew-3rmj9?file=/src/App.js)
+
 ## Используемые технологии
 
 - React
